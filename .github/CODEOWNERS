@@ -1,9 +1,9 @@
 #Default owner for all files
-@sabari
+@psabari
 
 #Application code
-/src/* @sabari #Backend team
+/src/* @psabari #Backend team
 
-Dockerfile* @sabari #DevOps team
+Dockerfile* @psabari #DevOps team
 
-.github/* @sabari #DevOps team
+.github/* @psabari #DevOps team
